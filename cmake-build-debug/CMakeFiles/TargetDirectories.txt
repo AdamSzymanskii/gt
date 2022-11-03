@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/gt/cmake-build-debug/CMakeFiles/gt.dir
+C:/Users/student/Desktop/gt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/gt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
